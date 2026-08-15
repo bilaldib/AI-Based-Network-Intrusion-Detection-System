@@ -1,0 +1,4 @@
+approach,f1_macro,dos,normal,probe,r2l,u2r
+Baseline (sans rééquilibrage),0.5434,0.8804,0.7884,0.7533,0.0232,0.2716
+Class weights (balanced),0.5874,0.8623,0.793,0.7986,0.1609,0.3218
+SMOTE (oversampling),0.6084,0.8587,0.7942,0.815,0.2102,0.3636

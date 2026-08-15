@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+venv_tf/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TensorFlow
+*.h5
+*.keras
+*.ckpt
+checkpoint/
+
+# Large models
+models/
+*.pt
+*.pth
+
+# Temporary files
+*.tmp
+*.temp
